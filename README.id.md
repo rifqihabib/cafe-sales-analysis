@@ -109,5 +109,5 @@ jupyter notebook notebooks/01_data_cleaning.ipynb
 - Batas segmentasi yang bertepatan dengan nilai maksimum struktural dataset perlu didokumentasikan secara eksplisit, supaya pembaca tidak salah menafsirkan maknanya.
 
 ## Penulis
-*Nama kamu di sini*
-*Link LinkedIn / Portofolio (opsional)*
+*Muchammad Rifqi Habib*
+*(https://www.linkedin.com/in/muchammad-rifqi-habib-a450b22a6/)*
