@@ -109,5 +109,5 @@ jupyter notebook notebooks/01_data_cleaning.ipynb
 - A segmentation threshold that coincides with a dataset's structural maximum should be documented explicitly, so readers don't misinterpret its meaning.
 
 ## Author
-*Your name here*
-*LinkedIn / Portfolio link (optional)*
+*Muchammad Rifqi Habib*
+*(https://www.linkedin.com/in/muchammad-rifqi-habib-a450b22a6/)*
